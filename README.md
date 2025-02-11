@@ -9,7 +9,7 @@ The Tic-Tac-Toe Web Game is a classic and engaging two-player game where partici
 -**CSS** – Styling for an interactive and responsive UI
 -**JavaScript** – Handling game logic, user interactions, and real-time updates
 
-## 🎮 Game Features:
+## 🎮 Game Features
 ✅ **Two-Player Mode** – Play against a friend 🤝
 ✅ **Dynamic Game State** – Tracks and updates moves in real-time 🔄
 ✅ **Win Detection** – Checks for winning conditions as the game progresses 🎯
