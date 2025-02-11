@@ -10,16 +10,16 @@ The Tic-Tac-Toe Web Game is a classic and engaging two-player game where partici
 -**JavaScript** – Handling game logic, user interactions, and real-time updates
 
 ## 🎮 Game Features:
-✅ Two-Player Mode – Play against a friend 🤝
-✅ Dynamic Game State – Tracks and updates moves in real-time 🔄
-✅ Win Detection – Checks for winning conditions as the game progresses 🎯
-✅ Interactive UI – Responsive and engaging design for a smooth user experience 🕹️
+✅ **Two-Player Mode** – Play against a friend 🤝
+✅ **Dynamic Game State** – Tracks and updates moves in real-time 🔄
+✅ **Win Detection** – Checks for winning conditions as the game progresses 🎯
+✅ **Interactive UI** – Responsive and engaging design for a smooth user experience 🕹️
 
 ## 🎯 Learning Outcomes
 This project helped me:
-Improve my JavaScript skills, focusing on event handling and game logic
-Deepen my understanding of DOM manipulation for interactive applications
-Strengthen my ability to develop responsive and engaging web experiences
+Improve my **JavaScript skills**, focusing on **event handling** and **game logic**
+Deepen my understanding of **DOM manipulation** for interactive applications
+Strengthen my ability to develop responsive and **engaging web experiences**
 
 ## 🔗 GitHub Repository
 Check out the project on GitHub: https://github.com/ManthanAdsul/Tic-Tac-Toe-Web-Game
