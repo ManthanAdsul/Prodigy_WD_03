@@ -1,4 +1,4 @@
-# 🎮 Tic-Tac-Toe Web Game 🚀
+#  Tic-Tac-Toe Web Game 🎮🚀
 Excited to share that I have successfully built Tic-Tac-Toe, an interactive web-based game🎉
 
 ## 🚀 Project Overview
