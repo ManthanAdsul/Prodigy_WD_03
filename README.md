@@ -23,9 +23,6 @@ This project helped me:
 - Enhance my understanding of **DOM manipulation** for building interactive applications  
 - Strengthen my ability to develop **responsive and engaging web experiences**  
 
-## 🔗 Live Demo  
-Check out the live version of the game: **[Live Demo](#)** *(Replace # with the deployed link if available)*  
-
 ## 🔗 GitHub Repository  
 Check out the project on GitHub: https://github.com/ManthanAdsul/Tic-Tac-Toe-Web-Game
 
